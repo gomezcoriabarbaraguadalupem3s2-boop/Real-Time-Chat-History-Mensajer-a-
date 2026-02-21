@@ -1,0 +1,22 @@
+{
+  "nombres": "Barbara Guadalupe",
+  "apellidos": "Gomez Coria",
+  "direccion": "av 47, calle 27",
+  "fechaDeNacimiento": "2009-12-12",
+  "aficiones": [
+    "programar",
+    "leer",
+    "videojuegos"
+  ],
+  "amigos": [
+    {
+      "nombres": "Angel",
+      "apellidos": "Bonilla"
+    },
+    {
+      "nombres": "Kenia",
+      "apellidos": "castillo"
+      "escuela": "CBTis 47"
+    }
+  ]
+}
